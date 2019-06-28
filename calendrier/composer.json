@@ -1,0 +1,16 @@
+{
+    "name": "cena/calendrier",
+    "authors": [
+        {
+            "name": "kiba9",
+            "email": "cenalejunky@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\Date\\": "src/Date",
+            "App\\App\\": "src/App"
+        }
+    },
+    "require": {}
+}
